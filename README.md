@@ -1,6 +1,5 @@
 # Building an Application with a Change Data Capture (CDC) Tool: Debezium
 
-![JESUS ANTONIO HUALLPA MARON's photo](#)
 
 **JESUS ANTONIO HUALLPA MARON**  
 Dec 12, 2024 · 3 min read  
